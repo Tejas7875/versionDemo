@@ -9,7 +9,7 @@
 	</parent>
 	<groupId>com.CurrencyConvertor</groupId>
 	<artifactId>CurrencyConvertor</artifactId>
-	<version>0.0.2-SNAPSHOT</version>
+	<version>0.0.2</version>
 	<name>Currency Converter</name>
 	<description>This is Currency Converter Project</description>
 
@@ -18,7 +18,7 @@
 		<url>https://github.com/Tejas781998/versionDemo.git</url> <!-- URL HTTP de clone do projeto -->
 		<connection>scm:git:https://github.com/Tejas781998/versionDemo.git</connection> <!-- URL HTTP de clone do projeto -->
 		<developerConnection>scm:git:https://github.com/Tejas781998/versionDemo.git</developerConnection> <!-- URL HTTP de clone do projeto -->
-		<tag>@{project.version}</tag>
+		<tag>0.0.2</tag>
 	</scm>
 
 	<properties>
